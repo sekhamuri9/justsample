@@ -1,0 +1,10 @@
+
+list to complte
+
+aws rdbms ,aws serverless computing lambda ,  aws ec2 
+hibernate
+spring mvcc springboot
+microserveices
+plsql sql
+desinngnpatterns 
+oracle
