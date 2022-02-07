@@ -1,0 +1,94 @@
+webserver is  a server program  that accepts request from http  clients  and  do process the request and dynamically responds to the client/user.
+
+OSI model
+From Wikipedia, the free encyclopedia
+OSI model
+by layer
+7.  Application layer[show]
+6.  Presentation layer[show]
+5.  Session layer[show]
+4.  Transport layer[show]
+3.  Network layer[show]
+2.  Data link layer[show]
+1.  Physical layer[show]
+v t e
+The Open Systems Interconnection model (OSI model) is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to their underlying internal structure and technology.
+
+The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets between applications running on hosts communicating by an IP network.   TCP PROTOCOL  REPRESNTS TRANSPORT  BETWEEN  NETWORK  AND  RELIABLE COMMUNICATION.AND ORDERED.
+
+
+
+application Layer Protocols (DNS, SMTP, POP, FTP, HTTP)
+ application layer protocol defines how an application processes (clients and servers) , running on different end systems, pass messages to each other. In particular, an application layer protocol defines:
+
+
+HTTP: e Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, and hypermedia information systems.[1] HTTP is the foundation of data communication for the World Wide Web.
+
+Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text. HTTP is the protocol to exchange or transfer hypertext.
+
+HTTP  REPRESENTS APPLICATION  LAYER PROTOCOL.
+
+
+"WEBSERVER IS  A SERVER PROGRAM THAT ACCEPTS  REQUESTS FROM HTTP (APPLICATION LAYER PROTOCOL)  
+AND  PROCESS THE REQUEST AND  DYNAMICALLY RESPONDS  TO THE CLIENT.
+
+FOR JAVA WEBSERVER  IT  CONTAINS SERVLETS OR JSP as   ... AS SERVER PROGRAM .
+
+
+
+APPLICATIONSERVER   IS OF WEBSERVER AND WITH   IMPLEMENTATION OF JAVAEE SPECIFICATION ( WHICH IS FOR DEVELOPING DISTRIBUTED ENTER PRISE APPLICATIONS) .
+APPLICATION  SERVER    PROVIDE LOW LEVEL SYSTEM SERVICES  LIKE TRANSACTION, CONNECTION POOLING,  JNDI,  SECUIRTY,  RMI MECHANISM, PERSISTENCE MECHANISM )ETC.
+
+  REGARDS TO EJB   ENTERPRISE JAVA  BEANS IS  A SERVERSIDE COMPONENT  MODEL FOR DEVELOPING DISTRIBUTED ENTERPRISE APPLICATIONS.
+   APPLICATION SERVER  CONTAINS  EJB CONTAINER  TO RUN EJB BEANS  AND IT PROVIDE SYSTEM LEVEL SERVICES.
+
+ 
+REGARDS  TO FEATURES
+
+LOAD BALANCING :  ?Reduced the work-load on an individual server
+
+to achieve load balancing  use of CLUSTERING :  A GROUP OF SERVERS  WORK TOGETHER AS A SINGLE SYSTEM SERVER
+  FOR LOADBALANCING  ( TO REDUCE WORKLOAD).
+A cluster is a group of replicated servers. Because there is more than one server, it is possible to load balance requests across them. In addition, a cluster means that the failure of one server does not mean the failure of the system. So, load balancing is just one of the features of a clusteed system, but there are others
+
+
+
+Vertical (or linear) clustering is running multiple server instances on the same hardware to better utilize memory or threading and allow for protection against software failure.
+
+Horizontal clustering then is clustering across hardware boundaries for both load balance and failover.
+
+
+SCALABILITY****:
+
+SCALABILITY IS ARCHITECTURE    PROVIDING  TO ADD  HARDWARE OR SOFTWARE  WITH EXISTING SYSTEM TO MEET  
+INCREASE WORKLOADS   AND BY CLUSTERING TYPES  ( VERITCAL  OR HORIZAONTAL).
+
+
+SCALABILITY:   IS ARCHITECTURE  FOR CHANGING LOAD BALANCING    TO ADD   OR REMOVE OF HARDWARE OR SOFTWARE  .
+
+
+SCALABILITY IS  AN ARCHITEUS  TO MEET  WORK LOADS   , FOR TO ADD SOFTWARE  AND OR OF HARDWERE   TO MEET WORKLOADS.
+
+A scalable architecture is an architecture that can scale up to meet increased work loads. In other words, if the work load all of a sudden exceeds the capacity of your existing software + hardware combination, you can scale up the system (software + hardware) to meet the increased work load.
+
+
+WEBSERVERS :
+
+Apache HTTP Server  TOMCAT
+iNternet Information Services (IIS)
+Sun Java System Web Server
+igsaw Server
+
+
+APPLICATION SERVERS.
+BEA WEBLOGIC SERVER,
+IBM WEBSPHERE SERVER
+ORACLE APPLICATION SERVER
+JBOSS
+ORION
+
+
+
+
+
+grid computing is a computer network in which each computer's resources are shared with every other computer in the system. Processing power, memory and data storage are all community resources that authorized users can tap into and leverage for specific tasks.
